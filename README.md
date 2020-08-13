@@ -1,7 +1,7 @@
 # Exercise Tracker REST API
 
 #### A microservice project, part of Free Code Camp's curriculum
-
+https://fcc-exercisetracker-chidibede.herokuapp.com/
 ### User Stories
 
 1. I can create a user by posting form data username to /api/exercise/new-user and returned will be an object with username and _id.
